@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcticCodeMonkeys
 - 👀 I’m interested in Software Dev and Full Stack Dev
-- 🌱 I’m currently learning C and Scheme at the University of Waterloo
+- 🌱 I’m currently learning C++ and SQL at the University of Waterloo
 - 📫 How to reach me: cereid@uwaterloo.ca
 - 😄 Pronouns: He/Him
 
