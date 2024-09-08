@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArcticCodeMonkeys
+- 👋 Hi, I’m Carter Reid, @ArcticCodeMonkeys
 - 👀 I’m interested in Software Dev and Full Stack Dev
 - 🌱 I’m currently learning C++ and SQL at the University of Waterloo
 - 📫 How to reach me: cereid@uwaterloo.ca
