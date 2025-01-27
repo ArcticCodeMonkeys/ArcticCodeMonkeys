@@ -9,10 +9,11 @@
 
 - 📫 How to reach me **cereid@uwaterloo.ca**
 
-- ⚡ Fun fact **I like to build PCs and play D&D**
+- ⚡ Fun fact **I like to build PC's and play D&D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/carter-reid-a98443254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carter-reid-a98443254/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
