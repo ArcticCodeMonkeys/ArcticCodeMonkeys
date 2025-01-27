@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cereid@uwaterloo.ca**
 
-- ⚡ Fun fact **I like to build PC's and play D&D**
+- ⚡ Fun fact **I like to build PCs and play D&D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
