@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Take CTRL](https://github.com/ArcticCodeMonkeys/Take-CTRL) and [Ritual](https://github.com/ArcticCodeMonkeys/Ritual)
 
-- 🌱 I’m currently learning **Javascript, Typescript, React**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://arcticcodemonkeys.github.io/link-tree/](https://arcticcodemonkeys.github.io/link-tree/)
 
