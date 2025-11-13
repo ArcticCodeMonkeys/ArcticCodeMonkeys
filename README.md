@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carter Reid</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
 
-- 🔭 I’m currently working on [Take CTRL](https://github.com/ArcticCodeMonkeys/Take-CTRL)
+- 🔭 I’m currently working on [Take CTRL](https://github.com/ArcticCodeMonkeys/Take-CTRL) and [Ritual](https://github.com/ArcticCodeMonkeys/Ritual)
 
 - 🌱 I’m currently learning **Javascript, Typescript, React**
 
