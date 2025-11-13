@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://arcticcodemonkeys.github.io/link-tree/](https://arcticcodemonkeys.github.io/link-tree/)
-
 - 📫 How to reach me **cereid@uwaterloo.ca**
 
-- ⚡ Fun fact **I like to build PC's and play D&D**
+- ⚡ Fun fact: **I like to build PCs and play Dungeons and Dragons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
